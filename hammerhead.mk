@@ -15,7 +15,7 @@
 #
 $(call inherit-product, device/lge/hammerhead/full_hammerhead.mk)
 
-PRODUCT_NAME := minimal_hammerhead
+PRODUCT_NAME := hammerhead
 
 PRODUCT_PACKAGES += \
     Launcher3
